@@ -3,4 +3,11 @@
  */
 public class test
 {
+    int x;
+
+
+    test(int x){
+        this.x = x;
+    }
+
 }
