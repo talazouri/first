@@ -4,10 +4,11 @@
 public class test
 {
     int x;
+    int y;
 
-
-    test(int x){
+    test(int x, int y){
         this.x = x;
+        this.y = y;
     }
 
 }
